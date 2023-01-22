@@ -22,3 +22,4 @@ After implementing JWT authentication
 
 - keep `/` route open
 - protect `/users` route for authenticated user only
+//
